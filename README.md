@@ -1,4 +1,5 @@
 **VIX-Driven Entry Timing Dashboard for Index ETFs**
+
 This Power BI dashboard is designed to identify potential entry opportunities for major index ETFs (such as SPY, QQQ, SSO, TQQQ, and UPRO) based on spikes in the CBOE Volatility Index (VIX). By analyzing historical data, it highlights moments when the VIX crosses a user-defined threshold (default: 40), which often signals market dips driven by heightened fear and volatility. These points have historically led to strong long-term returns as markets recover, making it a useful tool for timing entries in volatile environments.
 Key Features:
 
